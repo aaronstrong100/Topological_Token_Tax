@@ -1,0 +1,197 @@
+,Feature_ID,Gain_Importance,Feature_Explanation
+0,Resource_Class,15444.83854675293,
+1,GB250,9436.93911743164,Can predicative possession be expressed with a transitive 'habeo' verb?
+2,GB024,6336.658996582031,What is the order of numeral and noun in the NP?
+3,GB159,5596.314407348633,Are nouns reduplicated?
+4,GB059,4577.704086303711,Is the adnominal possessive construction different for alienable and inalienable nouns?
+5,GB187,4577.593948364258,Is there any productive diminutive marking on the noun (exclude marking by system of nominal classification only)?
+6,GB328,3307.7839965820312,Can the relative clause precede the noun?
+7,GB408,3093.031021118164,Is there any accusative alignment of flagging?
+8,GB185,3026.4540100097656,Can an adnominal demonstrative agree with the noun in number?
+9,GB402,2919.917999267578,Does the verb for 'see' have suppletive verb forms?
+10,GB114,2863.7569732666016,Is there a phonologically bound reflexive marker on the verb?
+11,GB252,2569.574981689453,Can predicative possession be expressed with an S-like possessum and a locative-coded possessor?
+12,GB020,2273.131820678711,Are there definite or specific articles?
+13,GB301,2076.1939697265625,Is there an inclusory construction?
+14,GB057,2063.607032775879,Are there numeral classifiers?
+15,GB133,2013.3739929199219,Is a pragmatically unmarked constituent order verb-final for transitive clauses?
+16,GB117,1747.6620025634766,Is there a copula for predicate nominals?
+17,GB079,1715.3194198608398,"Do verbs have prefixes/proclitics, other than those that only mark A, S or P (do include portmanteau: A & S + TAM)?"
+18,GB046,1687.9114074707031,Is there an associative plural marker for nouns?
+19,GB051,1660.1510620117188,Is there a gender/noun class system where sex is a factor in class assignment?
+20,GB146,1573.2640075683594,Is there a morpho-syntactic distinction between predicates expressing controlled versus uncontrolled events or states?
+21,GB330,1475.6208953857422,Are there correlative relative clauses?
+22,GB297,1345.4349975585938,Can polar interrogation be indicated by a V-not-V construction?
+23,GB113,1317.4360046386719,Are there verbal affixes or clitics that turn intransitive verbs into transitive ones?
+24,GB127,1308.0409851074219,Are different posture verbs used obligatorily depending on an inanimate locatum's shape or position (e.g. 'to lie' vs. 'to stand')?
+25,GB296,1093.360008239746,Is there a phonologically or morphosyntactically definable class of ideophones that includes ideophones depicting imagery beyond sound?
+26,GB147,1067.2050018310547,Is there a morphological passive marked on the lexical verb?
+27,GB103,1061.9379959106445,Is there a benefactive applicative marker on the verb (including indexing)?
+28,GB198,978.8859710693359,Can an adnominal numeral agree with the noun in gender/noun class?
+29,GB275,914.4391174316406,Is there a bound comparative degree marker on the property word in a comparative construction?
+30,GB170,804.0283126831055,Can an adnominal property word agree with the noun in gender/noun class?
+31,GB111,674.9461059570312,Are there conjugation classes?
+32,GB306,667.0420074462891,Is there a phonologically independent non-bipartite reciprocal pronoun?
+33,GB022,660.239990234375,Are there prenominal articles?
+34,GB074,633.6519775390625,Are there prepositions?
+35,GB433,633.614013671875,Can adnominal possession be marked by a suffix on the possessed noun?
+36,GB204,613.10400390625,Do collective ('all') and distributive ('every') universal quantifiers differ in their forms or their syntactic positions?
+37,GB266,611.406005859375,Is there a comparative construction that employs a marker of the standard which elsewhere has a locational meaning?
+38,GB132,608.0941047668457,Is a pragmatically unmarked constituent order verb-medial for transitive clauses?
+39,GB123,565.946403503418,Are there verb-adjunct (aka light-verb) constructions?
+40,GB520,496.697998046875,"Can aspect be marked by a non-inflecting word (""auxiliary particle"")?"
+41,GB309,477.56250762939453,"Are there multiple past or multiple future tenses, distinguishing distance from Time of Reference?"
+42,GB075,437.05499267578125,Are there postpositions?
+43,GB140,410.1592025756836,"Is verbal predication marked by the same negator as all of the following types of predication: locational, existential and nominal?"
+44,GB273,357.0660095214844,Is there a comparative construction with a standard marker that elsewhere has neither a locational meaning nor a 'surpass/exceed' meaning?
+45,GB035,345.34999084472656,Are there three or more distance contrasts in demonstratives?
+46,GB025,323.99779510498047,What is the order of adnominal demonstrative and noun?
+47,GB160,266.6389923095703,Are elements apart from verbs or nouns reduplicated?
+48,GB026,258.63600158691406,Can adnominal property words occur discontinuously?
+49,GB098,257.86400604248047,Are variations in marking strategies of core participants based on person distinctions?
+50,GB105,224.81329727172852,Can the recipient in a ditransitive construction be marked like the monotransitive patient?
+51,GB150,224.40900421142578,Is there clause chaining?
+52,GB065,200.05799865722656,What is the pragmatically unmarked order of adnominal possessor noun and possessed noun?
+53,GB073,199.6959991455078,Are there morphological cases for independent oblique personal pronominal arguments (i.e. not S/A/P)?
+54,GB136,193.54400634765625,Is the order of core argument (i.e. S/A/P) constituents fixed?
+55,GB107,181.7169952392578,"Can standard negation be marked by an affix, clitic or modification of the verb?"
+56,GB086,175.91400146484375,Is a morphological distinction between perfective and imperfective aspect available on verbs?
+57,GB082,175.15199279785156,Is there overt morphological marking of present tense on verbs?
+58,GB410,171.03199768066406,Is there any neutral alignment of flagging?
+59,GB126,163.06900024414062,Is there an existential verb?
+60,GB072,93.83470153808594,Are there morphological cases for oblique non-pronominal NPs (i.e. not S/A/P)?
+61,GB300,91.35880279541016,Does the verb for 'give' have suppletive verb forms?
+62,GB326,82.65750122070312,Do (nominal) content interrogatives normally or frequently occur in situ?
+63,GB313,65.7229995727539,Are there special adnominal possessive pronouns that are not formed by an otherwise regular process?
+64,GB403,60.213401794433594,Does the verb for 'come' have suppletive verb forms?
+65,GB121,34.15629959106445,"Can tense be marked by an inflecting word (""auxiliary verb"")?"
+66,GB119,21.969600677490234,"Can mood be marked by an inflecting word (""auxiliary verb"")?"
+67,GB021,0.0,Do indefinite nominals commonly have indefinite articles?
+68,GB115,0.0,Is there a phonologically bound reciprocal marker on the verb?
+69,GB108,0.0,Is there directional or locative morphological marking on verbs?
+70,GB109,0.0,Is there verb suppletion for participant number?
+71,GB110,0.0,Is there verb suppletion for tense or aspect?
+72,GB096,0.0,Are variations in marking strategies of core participants based on verb classes?
+73,GB095,0.0,Are variations in marking strategies of core participants based on TAM distinctions?
+74,GB099,0.0,Can verb stems alter according to the person of a core participant?
+75,GB104,0.0,Is there an instrumental applicative marker on the verb (including indexing)?
+76,GB094,0.0,Can the P argument be indexed by a prefix/proclitic on the verb in the simple main clause?
+77,GB083,0.0,Is there overt morphological marking on the verb dedicated to past tense?
+78,GB084,0.0,Is there overt morphological marking on the verb dedicated to future tense?
+79,GB089,0.0,Can the S argument be indexed by a suffix/enclitic on the verb in the simple main clause?
+80,GB090,0.0,Can the S argument be indexed by a prefix/proclitic on the verb in the simple main clause?
+81,GB091,0.0,Can the A argument be indexed by a suffix/enclitic on the verb in the simple main clause?
+82,GB092,0.0,Can the A argument be indexed by a prefix/proclitic on the verb in the simple main clause?
+83,GB093,0.0,Can the P argument be indexed by a suffix/enclitic on the verb in the simple main clause?
+84,GB080,0.0,"Do verbs have suffixes/enclitics, other than those that only mark A, S or P (do include portmanteau: A & S + TAM)?"
+85,GB081,0.0,Is there productive infixation in verbs?
+86,GB042,0.0,Is there productive overt morphological singular marking on nouns?
+87,GB041,0.0,Are there several nouns (more than three) which are suppletive for number?
+88,GB039,0.0,Is there nonphonological allomorphy of noun number markers?
+89,GB049,0.0,Is there a productive morphological pattern for deriving an object noun from a verb?
+90,GB048,0.0,Is there a productive morphological pattern for deriving an agent noun from a verb?
+91,GB047,0.0,Is there a productive morphological pattern for deriving an action/state noun from a verb?
+92,GB054,0.0,Is there a gender/noun class system where plant status is a factor in class assignment?
+93,GB053,0.0,Is there a gender/noun class system where animacy is a factor in class assignment?
+94,GB052,0.0,Is there a gender/noun class system where shape is a factor in class assignment?
+95,GB058,0.0,Are there possessive classifiers?
+96,GB068,0.0,"Do core adjectives (defined semantically as property concepts such as value, shape, age, dimension) act like verbs in predicative position?"
+97,GB069,0.0,"Do core adjectives (defined semantically as property concepts; value, shape, age, dimension) used attributively require the same morphological treatment as verbs?"
+98,GB070,0.0,Are there morphological cases for non-pronominal core arguments (i.e. S/A/P)?
+99,GB071,0.0,Are there morphological cases for pronominal core arguments (i.e. S/A/P)?
+100,GB031,0.0,Is there a dual or unit augmented form (in addition to plural or augmented) for all person categories in the pronoun system?
+101,GB030,0.0,Is there a gender distinction in independent 3rd person pronouns?
+102,GB028,0.0,Is there a distinction between inclusive and exclusive?
+103,GB027,0.0,Are nominal conjunction and comitative expressed by different elements?
+104,GB037,0.0,Do demonstratives show a visible-nonvisible distinction?
+105,GB038,0.0,Are there demonstrative classifiers?
+106,GB036,0.0,Do demonstratives show an elevation distinction?
+107,GB044,0.0,Is there productive morphological plural marking on nouns?
+108,GB043,0.0,Is there productive morphological dual marking on nouns?
+109,GB023,0.0,Are there postnominal articles?
+110,GB177,0.0,"Can the verb carry a marker of animacy of argument, unrelated to any gender/noun class of the argument visible in the NP domain?"
+111,GB172,0.0,Can an article agree with the noun in gender/noun class?
+112,GB134,0.0,Is the order of constituents the same in main and subordinate clauses?
+113,GB167,0.0,Is there a logophoric pronoun?
+114,GB139,0.0,Is there a difference between imperative (prohibitive) and declarative negation constructions?
+115,GB138,0.0,Can standard negation be marked clause-initially?
+116,GB156,0.0,Is there a causative construction involving an element that is unmistakably grammaticalized from a verb for 'to say'?
+117,GB155,0.0,Are causatives formed by affixes or clitics on verbs?
+118,GB152,0.0,Is there a morphologically marked distinction between simultaneous and sequential clauses?
+119,GB151,0.0,"Is there an overt verb marker dedicated to signalling coreference or noncoreference between the subject of one clause and an argument of an adjacent clause (""switch reference"")?"
+120,GB149,0.0,Is there a morphologically marked inverse on verbs?
+121,GB148,0.0,Is there a morphological antipassive marked on the lexical verb?
+122,GB137,0.0,Can standard negation be marked clause-finally?
+123,GB135,0.0,Do clausal objects usually occur in the same position as nominal objects?
+124,GB130,0.0,What is the pragmatically unmarked order of S and V in intransitive clauses?
+125,GB131,0.0,Is a pragmatically unmarked constituent order verb-initial for transitive clauses?
+126,GB124,0.0,Is incorporation of nouns into verbs a productive intransitivizing process?
+127,GB129,0.0,"Is there a notably small number, i.e. about 100 or less, of verb roots in the language?"
+128,GB118,0.0,Are there serial verb constructions?
+129,GB122,0.0,Is verb compounding a regular process?
+130,GB116,0.0,"Do verbs classify the shape, size or consistency of absolutive arguments by means of incorporated nouns, verbal affixes or suppletive verb stems?"
+131,GB120,0.0,"Can aspect be marked by an inflecting word (""auxiliary verb"")?"
+132,GB264,0.0,Is there a polar interrogative particle that most commonly occurs neither clause-initially nor clause-finally?
+133,GB263,0.0,Is there a clause-final polar interrogative particle?
+134,GB262,0.0,Is there a clause-initial polar interrogative particle?
+135,GB260,0.0,Can polar interrogation be indicated by a special word order?
+136,GB257,0.0,Can polar interrogation be marked by intonation only?
+137,GB256,0.0,Can predicative possession be expressed with an S-like possessor and a possessum that is coded like a comitative argument?
+138,GB254,0.0,Can predicative possession be expressed with an S-like possessum and a possessor that is coded like an adnominal possessor?
+139,GB253,0.0,Can predicative possession be expressed with an S-like possessum and a dative-coded possessor?
+140,GB203,0.0,What is the order of the adnominal collective universal quantifier ('all') and the noun?
+141,GB193,0.0,What is the order of adnominal property word and noun?
+142,GB196,0.0,Is there a male/female distinction in 2nd person independent pronouns?
+143,GB197,0.0,Is there a male/female distinction in 1st person independent pronouns?
+144,GB184,0.0,Can an adnominal property word agree with the noun in number?
+145,GB186,0.0,Can an article agree with the noun in number?
+146,GB188,0.0,Is there any productive augmentative marking on the noun (exclude marking by system of nominal classification only)?
+147,GB192,0.0,Is there a gender system where a noun's phonological properties are a factor in class assignment?
+148,GB158,0.0,Are verbs reduplicated?
+149,GB165,0.0,Is there productive morphological trial marking on nouns?
+150,GB166,0.0,Is there productive morphological paucal marking on nouns?
+151,GB171,0.0,Can an adnominal demonstrative agree with the noun in gender/noun class?
+152,GB305,0.0,Is there a phonologically independent reflexive pronoun?
+153,GB304,0.0,Can the agent be expressed overtly in a passive clause?
+154,GB291,0.0,Can polar interrogation be marked by tone?
+155,GB303,0.0,"Is there a phonologically free antipassive marker (""particle"" or ""auxiliary"")?"
+156,GB302,0.0,"Is there a phonologically free passive marker (""particle"" or ""auxiliary"")?"
+157,GB299,0.0,"Can standard negation be marked by a non-inflecting word (""auxiliary particle"")?"
+158,GB286,0.0,Can polar interrogation be indicated by overt verbal morphology only?
+159,GB270,0.0,Can comparatives be expressed using two conjoined clauses?
+160,GB298,0.0,"Can standard negation be marked by an inflecting word (""auxiliary verb"")?"
+161,GB285,0.0,Can polar interrogation be marked by a question particle and verbal morphology?
+162,GB276,0.0,Is there a non-bound comparative degree marker modifying the property word in a comparative construction?
+163,GB265,0.0,"Is there a comparative construction that includes a form that elsewhere means 'surpass, exceed'?"
+164,GB322,0.0,Is there grammatical marking of direct evidence (perceived with the senses)?
+165,GB321,0.0,Is there a large class of nouns whose gender/noun class is not phonologically or semantically predictable?
+166,GB320,0.0,Is paucal number regularly marked in the noun phrase by a dedicated phonologically free element?
+167,GB319,0.0,Is trial number regularly marked in the noun phrase by a dedicated phonologically free element?
+168,GB318,0.0,Is plural number regularly marked in the noun phrase by a dedicated phonologically free element?
+169,GB317,0.0,Is dual number regularly marked in the noun phrase by a dedicated phonologically free element?
+170,GB316,0.0,Is singular number regularly marked in the noun phrase by a dedicated phonologically free element?
+171,GB315,0.0,Can diminutive meaning be expressed productively by a shift of gender/noun class?
+172,GB314,0.0,Can augmentative meaning be expressed productively by a shift of gender/noun class?
+173,GB312,0.0,Is there overt morphological marking on the verb dedicated to mood?
+174,GB329,0.0,Are there internally-headed relative clauses?
+175,GB331,0.0,Are there non-adjacent relative clauses?
+176,GB325,0.0,Is there a count/mass distinction in interrogative quantifiers?
+177,GB324,0.0,"Is there an interrogative verb for content interrogatives (who?, what?, etc.)?"
+178,GB327,0.0,Can the relative clause follow the noun?
+179,GB323,0.0,"Is there grammatical marking of indirect evidence (hearsay, inference, etc.)?"
+180,GB401,0.0,Is there a class of patient-labile verbs?
+181,GB400,0.0,"Are all person categories neutralized in some voice, tense, aspect, mood and/or negation?"
+182,GB336,0.0,Is there a body-part tallying system?
+183,GB335,0.0,Is there synchronic evidence for any element of a vigesimal numeral system?
+184,GB333,0.0,Is there a decimal numeral system?
+185,GB334,0.0,Is there synchronic evidence for any element of a quinary numeral system?
+186,GB415,0.0,Is there a politeness distinction in 2nd person forms?
+187,GB409,0.0,Is there any ergative alignment of flagging?
+188,GB430,0.0,Can adnominal possession be marked by a prefix on the possessor?
+189,GB422,0.0,Is there a postposed complementizer in complements of verbs of thinking and/or knowing?
+190,GB421,0.0,Is there a preposed complementizer in complements of verbs of thinking and/or knowing?
+191,GB431,0.0,Can adnominal possession be marked by a prefix on the possessed noun?
+192,GB519,0.0,"Can mood be marked by a non-inflecting word (""auxiliary particle"")?"
+193,GB432,0.0,Can adnominal possession be marked by a suffix on the possessor?
+194,GB521,0.0,"Can tense be marked by a non-inflecting word (""auxiliary particle"")?"
+195,GB522,0.0,"Can the S or A argument be omitted from a pragmatically unmarked clause when the referent is inferrable from context (""pro-drop"" or ""null anaphora"")?"

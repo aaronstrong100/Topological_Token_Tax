@@ -1,0 +1,205 @@
+Language_Code,Language_Name,ISO_Code,Language_Script,sentences
+ace_Arab,Acehnese (Arabic script),ace,Arab,1193.0
+ace_Latn,Acehnese (Latin script),ace,Latn,1193.0
+acm_Arab,Mesopotamian Arabic,acm,Arab,1137.0
+acq_Arab,Ta’izzi-Adeni Arabic,acq,Arab,1131.0
+aeb_Arab,Tunisian Arabic,aeb,Arab,1127.0
+afr_Latn,Afrikaans,afr,Latn,1188.0
+ajp_Arab,South Levantine Arabic,ajp,Arab,1163.0
+aka_Latn,Akan,aka,Latn,1208.0
+amh_Ethi,Amharic,amh,Ethi,58.0
+apc_Arab,North Levantine Arabic,apc,Arab,1150.0
+arb_Arab,Modern Standard Arabic,arb,Arab,1148.0
+arb_Latn,Modern Standard Arabic (Romanized),arb,Latn,1148.0
+ars_Arab,Najdi Arabic,ars,Arab,1141.0
+ary_Arab,Moroccan Arabic,ary,Arab,1144.0
+arz_Arab,Egyptian Arabic,arz,Arab,1125.0
+asm_Beng,Assamese,asm,Beng,50.0
+ast_Latn,Asturian,ast,Latn,1201.0
+awa_Deva,Awadhi,awa,Deva,42.0
+ayr_Latn,Central Aymara,ayr,Latn,1171.0
+azb_Arab,South Azerbaijani,azb,Arab,1163.0
+azj_Latn,North Azerbaijani,azj,Latn,1165.0
+bak_Cyrl,Bashkir,bak,Cyrl,1175.0
+bam_Latn,Bambara,bam,Latn,1155.0
+ban_Latn,Balinese,ban,Latn,1143.0
+bel_Cyrl,Belarusian,bel,Cyrl,1378.0
+bem_Latn,Bemba,bem,Latn,1193.0
+ben_Beng,Bengali,ben,Beng,43.0
+bho_Deva,Bhojpuri,bho,Deva,983.0
+bjn_Arab,Banjar (Arabic script),bjn,Arab,1179.0
+bjn_Latn,Banjar (Latin script),bjn,Latn,1179.0
+bod_Tibt,Standard Tibetan,bod,Tibt,23.0
+bos_Latn,Bosnian,bos,Latn,1312.0
+bug_Latn,Buginese,bug,Latn,1220.0
+bul_Cyrl,Bulgarian,bul,Cyrl,1247.0
+cat_Latn,Catalan,cat,Latn,1203.0
+ceb_Latn,Cebuano,ceb,Latn,1186.0
+ces_Latn,Czech,ces,Latn,1265.0
+cjk_Latn,Chokwe,cjk,Latn,1178.0
+ckb_Arab,Central Kurdish,ckb,Arab,1146.0
+crh_Latn,Crimean Tatar,crh,Latn,1177.0
+cym_Latn,Welsh,cym,Latn,1182.0
+dan_Latn,Danish,dan,Latn,1292.0
+deu_Latn,German,deu,Latn,1300.0
+dik_Latn,Southwestern Dinka,dik,Latn,1111.0
+dyu_Latn,Dyula,dyu,Latn,1198.0
+dzo_Tibt,Dzongkha,dzo,Tibt,17.0
+ell_Grek,Greek,ell,Grek,1218.0
+eng_Latn,English,eng,Latn,1211.0
+epo_Latn,Esperanto,epo,Latn,1173.0
+est_Latn,Estonian,est,Latn,1258.0
+eus_Latn,Basque,eus,Latn,1257.0
+ewe_Latn,Ewe,ewe,Latn,972.0
+fao_Latn,Faroese,fao,Latn,1290.0
+fij_Latn,Fijian,fij,Latn,1193.0
+fin_Latn,Finnish,fin,Latn,1278.0
+fon_Latn,Fon,fon,Latn,1199.0
+fra_Latn,French,fra,Latn,1170.0
+fur_Latn,Friulian,fur,Latn,1197.0
+fuv_Latn,Nigerian Fulfulde,fuv,Latn,1152.0
+gla_Latn,Scottish Gaelic,gla,Latn,1190.0
+gle_Latn,Irish,gle,Latn,1215.0
+glg_Latn,Galician,glg,Latn,1205.0
+grn_Latn,Guarani,grn,Latn,1173.0
+guj_Gujr,Gujarati,guj,Gujr,1201.0
+hat_Latn,Haitian Creole,hat,Latn,1178.0
+hau_Latn,Hausa,hau,Latn,1178.0
+heb_Hebr,Hebrew,heb,Hebr,1168.0
+hin_Deva,Hindi,hin,Deva,822.0
+hne_Deva,Chhattisgarhi,hne,Deva,40.0
+hrv_Latn,Croatian,hrv,Latn,1315.0
+hun_Latn,Hungarian,hun,Latn,1230.0
+hye_Armn,Armenian,hye,Armn,94.0
+ibo_Latn,Igbo,ibo,Latn,1180.0
+ilo_Latn,Ilocano,ilo,Latn,1177.0
+ind_Latn,Indonesian,ind,Latn,1223.0
+isl_Latn,Icelandic,isl,Latn,1360.0
+ita_Latn,Italian,ita,Latn,1198.0
+jav_Latn,Javanese,jav,Latn,1198.0
+jpn_Jpan,Japanese,jpn,Jpan,21.0
+kab_Latn,Kabyle,kab,Latn,1162.0
+kac_Latn,Jingpho,kac,Latn,1224.0
+kam_Latn,Kamba,kam,Latn,1165.0
+kan_Knda,Kannada,kan,Knda,1198.0
+kas_Arab,Kashmiri (Arabic script),kas,Arab,62.0
+kas_Deva,Kashmiri (Devanagari script),kas,Deva,62.0
+kat_Geor,Georgian,kat,Geor,1200.0
+knc_Arab,Central Kanuri (Arabic script),knc,Arab,1167.0
+knc_Latn,Central Kanuri (Latin script),knc,Latn,1167.0
+kaz_Cyrl,Kazakh,kaz,Cyrl,1216.0
+kbp_Latn,Kabiyè,kbp,Latn,1137.0
+kea_Latn,Kabuverdianu,kea,Latn,1206.0
+khm_Khmr,Khmer,khm,Khmr,45.0
+kik_Latn,Kikuyu,kik,Latn,1132.0
+kin_Latn,Kinyarwanda,kin,Latn,1176.0
+kir_Cyrl,Kyrgyz,kir,Cyrl,1255.0
+kmb_Latn,Kimbundu,kmb,Latn,1204.0
+kmr_Latn,Northern Kurdish,kmr,Latn,1187.0
+kon_Latn,Kikongo,kon,Latn,1167.0
+kor_Hang,Korean,kor,Hang,1185.0
+lao_Laoo,Lao,lao,Laoo,1178.0
+lij_Latn,Ligurian,lij,Latn,1197.0
+lim_Latn,Limburgish,lim,Latn,1233.0
+lin_Latn,Lingala,lin,Latn,1157.0
+lit_Latn,Lithuanian,lit,Latn,1332.0
+lmo_Latn,Lombard,lmo,Latn,1175.0
+ltg_Latn,Latgalian,ltg,Latn,1304.0
+ltz_Latn,Luxembourgish,ltz,Latn,1232.0
+lua_Latn,Luba-Kasai,lua,Latn,1168.0
+lug_Latn,Ganda,lug,Latn,1069.0
+luo_Latn,Luo,luo,Latn,1144.0
+lus_Latn,Mizo,lus,Latn,1172.0
+lvs_Latn,Standard Latvian,lvs,Latn,1325.0
+mag_Deva,Magahi,mag,Deva,36.0
+mai_Deva,Maithili,mai,Deva,42.0
+mal_Mlym,Malayalam,mal,Mlym,1212.0
+mar_Deva,Marathi,mar,Deva,1190.0
+min_Arab,Minangkabau (Arabic script),min,Arab,1184.0
+min_Latn,Minangkabau (Latin script),min,Latn,1184.0
+mkd_Cyrl,Macedonian,mkd,Cyrl,1207.0
+plt_Latn,Plateau Malagasy,plt,Latn,1171.0
+mlt_Latn,Maltese,mlt,Latn,1189.0
+mni_Beng,Meitei (Bengali script),mni,Beng,48.0
+khk_Cyrl,Halh Mongolian,khk,Cyrl,1176.0
+mos_Latn,Mossi,mos,Latn,1219.0
+mri_Latn,Maori,mri,Latn,1180.0
+mya_Mymr,Burmese,mya,Mymr,38.0
+nld_Latn,Dutch,nld,Latn,1323.0
+nno_Latn,Norwegian Nynorsk,nno,Latn,1251.0
+nob_Latn,Norwegian Bokmål,nob,Latn,1273.0
+npi_Deva,Nepali,npi,Deva,50.0
+nso_Latn,Northern Sotho,nso,Latn,1208.0
+nus_Latn,Nuer,nus,Latn,1165.0
+nya_Latn,Nyanja,nya,Latn,1183.0
+oci_Latn,Occitan,oci,Latn,1171.0
+gaz_Latn,West Central Oromo,gaz,Latn,1181.0
+ory_Orya,Odia,ory,Orya,58.0
+pag_Latn,Pangasinan,pag,Latn,1193.0
+pan_Guru,Eastern Panjabi,pan,Guru,79.0
+pap_Latn,Papiamento,pap,Latn,1216.0
+pes_Arab,Western Persian,pes,Arab,1160.0
+pol_Latn,Polish,pol,Latn,1204.0
+por_Latn,Portuguese,por,Latn,1204.0
+prs_Arab,Dari,prs,Arab,1176.0
+pbt_Arab,Southern Pashto,pbt,Arab,1029.0
+quy_Latn,Ayacucho Quechua,quy,Latn,1181.0
+ron_Latn,Romanian,ron,Latn,1200.0
+run_Latn,Rundi,run,Latn,1242.0
+rus_Cyrl,Russian,rus,Cyrl,1211.0
+sag_Latn,Sango,sag,Latn,1132.0
+san_Deva,Sanskrit,san,Deva,71.0
+sat_Olck,Santali,sat,Olck,75.0
+scn_Latn,Sicilian,scn,Latn,1192.0
+shn_Mymr,Shan,shn,Mymr,59.0
+sin_Sinh,Sinhala,sin,Sinh,1248.0
+slk_Latn,Slovak,slk,Latn,1267.0
+slv_Latn,Slovenian,slv,Latn,1253.0
+smo_Latn,Samoan,smo,Latn,1180.0
+sna_Latn,Shona,sna,Latn,1178.0
+snd_Arab,Sindhi,snd,Arab,1182.0
+som_Latn,Somali,som,Latn,1149.0
+sot_Latn,Southern Sotho,sot,Latn,1186.0
+spa_Latn,Spanish,spa,Latn,1206.0
+als_Latn,Tosk Albanian,als,Latn,1219.0
+srd_Latn,Sardinian,srd,Latn,1202.0
+srp_Cyrl,Serbian,srp,Cyrl,1280.0
+ssw_Latn,Swati,ssw,Latn,1198.0
+sun_Latn,Sundanese,sun,Latn,1172.0
+swe_Latn,Swedish,swe,Latn,1200.0
+swh_Latn,Swahili,swh,Latn,1161.0
+szl_Latn,Silesian,szl,Latn,1194.0
+tam_Taml,Tamil,tam,Taml,1229.0
+tat_Cyrl,Tatar,tat,Cyrl,1228.0
+tel_Telu,Telugu,tel,Telu,1206.0
+tgk_Cyrl,Tajik,tgk,Cyrl,1165.0
+tgl_Latn,Tagalog,tgl,Latn,1199.0
+tha_Thai,Thai,tha,Thai,118.0
+tir_Ethi,Tigrinya,tir,Ethi,76.0
+taq_Latn,Tamasheq (Latin script),taq,Latn,1160.0
+taq_Tfng,Tamasheq (Tifinagh script),taq,Tfng,1160.0
+tpi_Latn,Tok Pisin,tpi,Latn,1191.0
+tsn_Latn,Tswana,tsn,Latn,1206.0
+tso_Latn,Tsonga,tso,Latn,1193.0
+tuk_Latn,Turkmen,tuk,Latn,1164.0
+tum_Latn,Tumbuka,tum,Latn,1183.0
+tur_Latn,Turkish,tur,Latn,1270.0
+twi_Latn,Twi,twi,Latn,1195.0
+tzm_Tfng,Central Atlas Tamazight,tzm,Tfng,1157.0
+uig_Arab,Uyghur,uig,Arab,1188.0
+ukr_Cyrl,Ukrainian,ukr,Cyrl,1184.0
+umb_Latn,Umbundu,umb,Latn,1192.0
+urd_Arab,Urdu,urd,Arab,23.0
+uzn_Latn,Northern Uzbek,uzn,Latn,1157.0
+vec_Latn,Venetian,vec,Latn,1187.0
+vie_Latn,Vietnamese,vie,Latn,1194.0
+war_Latn,Waray,war,Latn,1199.0
+wol_Latn,Wolof,wol,Latn,1163.0
+xho_Latn,Xhosa,xho,Latn,1179.0
+ydd_Hebr,Eastern Yiddish,ydd,Hebr,1209.0
+yor_Latn,Yoruba,yor,Latn,1180.0
+yue_Hant,Yue Chinese,yue,Hant,14.0
+zho_Hans,Chinese (Simplified),zho,Hans,16.0
+zho_Hant,Chinese (Traditional),zho,Hant,16.0
+zsm_Latn,Standard Malay,zsm,Latn,1190.0
+zul_Latn,Zulu,zul,Latn,1177.0
