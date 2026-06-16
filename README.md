@@ -7,8 +7,10 @@ There are five folders:
 4. flores_datasets: this folder contains the actual corpora used for analysis. The FLORES-200 dataset contains parallel data from 200 langauges.
 5. grambank: this folder contains the grambank dataset. This was used to assemble topological data about each language. Due to the large size of the dataset, that folder was not specifically included. However, all relevant topological information for this paper is contained within the full_language_data.csv file.
 
-In order to best understand the raw data used in this paper, I suggest looking at the visuals, glancing at the files in the flores_datasets folder, skimming the full_language_data.csv file, and finally glancing at the actual code if you are interested.
+__In order to best understand the raw data used in this paper, I suggest looking at the visuals, glancing at the files in the flores_datasets folder, skimming the full_language_data.csv file, and finally glancing at the actual code if you are interested.__
 The code files perform the following functions:
- - flores_import imports the FLORES dataset
- - load_language_resource_levels imports the resource levels of the languages
- - 
+ - flores_import.ipynb imports the FLORES dataset
+ - load_language_resource_levels.ipynb imports the resource levels of the languages
+ - morpheme_analysis.ipynb loads the grambank dataset
+ - Tokenizer.ipynb performs the tokenization of the multilingual corpus
+ - data_combiner.ipynb combines the raw data gathered by the other files, fits the gradient boosting model, and creates graphs to model the data
